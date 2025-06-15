@@ -5,3 +5,4 @@ Modulo 1 - Excel
 Modulo 2 - Database & SQL  
 Modulo 3 - Python  
 Modulo 4 - Google Looker Studio
+Modulo 5 - Microsoft Power BI
